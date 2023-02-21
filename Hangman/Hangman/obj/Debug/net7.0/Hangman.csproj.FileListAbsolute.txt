@@ -1,0 +1,15 @@
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\bin\Debug\net7.0\Hangman.exe
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\bin\Debug\net7.0\Hangman.deps.json
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\bin\Debug\net7.0\Hangman.runtimeconfig.json
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\bin\Debug\net7.0\Hangman.dll
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\bin\Debug\net7.0\Hangman.pdb
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\Hangman.csproj.AssemblyReference.cache
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\Hangman.AssemblyInfo.cs
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\Hangman.dll
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\refint\Hangman.dll
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\Hangman.pdb
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\Hangman.genruntimeconfig.cache
+C:\Users\MartinHolmberg\Desktop\Visual Projects\Hangman\Hangman\obj\Debug\net7.0\ref\Hangman.dll
